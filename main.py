@@ -14,7 +14,8 @@ Heroes = {
   "DAA" : "Thanos",
   "DAB" : "Thor",
   "DBA" : "Hawkeye",
-  "DBB" : "Black Widow"
+  "DBB" : "Black Widow",
+  "DBC" : "MoonByul"
 }
 
 name = input ("Hello, what is your name? ")
